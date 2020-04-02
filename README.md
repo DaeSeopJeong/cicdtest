@@ -1,5 +1,0 @@
-# cicdtest
-DaeSeopJeong
-DaeSeopJeongDaeSeopJeong
-DaeSeopJeongDaeSeopJeongDaeSeopJeong
-
